@@ -2,13 +2,24 @@
     margin-bottom: 80px;
 }
 
+.order {
+    margin-left: 5px;
+    background-image: linear-gradient(rgb(72, 184, 218), rgb(48, 119, 218));
+}
+
 .price {
     color: rgb(235, 25, 25);
 }
 
 .carousel-inner {
-    background-color: rgb(232, 220, 220);
+    background-color: rgb(247, 247, 245);
     padding: 20px 30px;
+}
+
+.cat1,
+.cat2,
+.cat3 {
+    padding: 10px 30px;
 }
 
 .cat1 {
@@ -24,7 +35,7 @@
 }
 
 .row h1 {
-    padding: 10px 30px;
+    padding: 5px 10px;
 }
 
 .categories h1 {
@@ -32,9 +43,17 @@
 }
 
 .categories img {
-    width: 100%;
+    width: 50%;
 }
 
-.categories {
-    border-radius: 10px;
+.d-flex {
+    border-radius: 5px;
+}
+
+footer {
+    margin-left: 10px;
+}
+
+.card1 img {
+    width: 80%;
 }
