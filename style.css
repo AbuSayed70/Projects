@@ -1,0 +1,40 @@
+.container {
+    margin-bottom: 80px;
+}
+
+.price {
+    color: rgb(235, 25, 25);
+}
+
+.carousel-inner {
+    background-color: rgb(232, 220, 220);
+    padding: 20px 30px;
+}
+
+.cat1 {
+    background-image: linear-gradient(red, rgb(222, 121, 20));
+}
+
+.cat2 {
+    background-image: linear-gradient(rgb(30, 91, 197), rgb(114, 145, 207));
+}
+
+.cat3 {
+    background-image: linear-gradient(rgb(17, 174, 150), rgb(57, 192, 54));
+}
+
+.row h1 {
+    padding: 10px 30px;
+}
+
+.categories h1 {
+    color: aliceblue;
+}
+
+.categories img {
+    width: 100%;
+}
+
+.categories {
+    border-radius: 10px;
+}
